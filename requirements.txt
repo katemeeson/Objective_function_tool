@@ -1,0 +1,7 @@
+Python==3.11.9
+cobra==0.29.0
+# Requires: appdirs, depinfo, diskcache, future, httpx, importlib-resources, numpy, optlang, pandas, pydantic, python-libsbml, rich, ruamel.yaml, swiglpk
+matplotlib==3.10.0
+# Requires: contourpy, cycler, fonttools, kiwisolver, numpy, packaging, pillow, pyparsing, python-dateutil
+pandas==2.2.3
+# Requires: numpy, python-dateutil, pytz, tzdata
